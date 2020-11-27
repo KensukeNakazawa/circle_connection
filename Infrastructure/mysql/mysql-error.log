@@ -1,0 +1,36 @@
+2020-11-19T07:33:35.525556-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T07:33:35.554407-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T07:33:35.616158-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T07:33:35.619404-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T07:33:35.621566-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T07:33:35.625128-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-11-19T07:46:12.314322-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T07:46:12.344372-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T07:46:12.404172-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T07:46:12.407689-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T07:46:12.410655-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T07:46:12.414801-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-11-19T07:46:42.416615-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T07:46:42.431519-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T07:46:42.515445-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T07:46:42.520717-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T07:46:42.529686-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T07:46:42.532616-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-11-19T07:46:54.294731-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T07:46:54.309817-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T07:46:54.345677-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T07:46:54.357155-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T07:46:54.359448-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T07:46:54.362077-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-11-19T07:49:13.234829-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T07:49:13.265274-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T07:49:13.312259-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T07:49:13.314076-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T07:49:13.316039-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T07:49:13.321058-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-11-19T08:10:58.867559-00:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.22) starting as process 1
+2020-11-19T08:10:58.887950-00:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2020-11-19T08:10:58.942115-00:00 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2020-11-19T08:10:58.945931-00:00 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-11-19T08:10:58.949965-00:00 0 [ERROR] [MY-010119] [Server] Aborting
+2020-11-19T08:10:58.955907-00:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
