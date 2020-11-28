@@ -5,5 +5,5 @@ set-up:
 	docker-compose exec application npm run dev
 	docker-compose exec application cp .env.example .env
 	docker-compose exec application php artisan key:generate
-	docker-compose exec application php artisan migrate
+	docker-compose exec application php artisan migrate　--seed
 
