@@ -24,6 +24,7 @@ http://127.0.0.1:8000/ ここにアクセスする
 サークル
 - email: test-circle@gmail.com
 - pass: test1234
+
 ユーザー
 - email: test-user@gmail.com
 - pass: test1234
