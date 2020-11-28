@@ -1,2 +1,5 @@
-./App/*
+./App/circle_connection/node_modules/
+./App/circle_connection/vendor/
+./App/circle_connection/.env
+
 
