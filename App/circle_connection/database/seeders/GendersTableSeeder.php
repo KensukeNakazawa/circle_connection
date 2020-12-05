@@ -1,32 +1,31 @@
 <?php
+namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
-class CircleCategoriesTableSeeder extends Seeder
+class GendersTableSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Run the database seeders.
      *
      * @return void
      */
     public function run()
     {
-        DB::table('circle_categories')->insert([
+        DB::table('genders')->insert([
             [
                 'name' => '未選択'
             ],
             [
-                'name' => 'スポーツ'
+                'name' => '男'
             ],
             [
-                'name' => '文化'
-            ],
-            [
-                'name' => 'イベント'
+                'name' => '女'
             ],
             [
                 'name' => 'その他'
-            ],
+            ]
         ]);
     }
 }
