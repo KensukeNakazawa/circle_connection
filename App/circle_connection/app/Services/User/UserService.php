@@ -23,16 +23,29 @@ class UserService extends Service
     const USER_TYPE_CIRCLE = 2;//config('constants.USER_TYPE_CIRCLE');
     const USER_TYPE_ADMIN = 3;//config('constants.USER_TYPE_ADMIN');
 
+    private $userRepository;
+    private $userSettingRepository;
+    private $circleSettingRepository;
+    private $storageService;
+
     /**
      * UserService constructor.
-     * @param $
+     * @param $userRepository
+     * @param $userSettingRepository
+     * @param $circleSettingRepository
+     * @param $storageService
      */
     public function __construct(
-        protected UserRepositoryInterface $userRepository,
-        protected UserSettingRepositoryInterface $userSettingRepository,
-        protected CircleSettingRepositoryInterface $circleSettingRepository,
-        protected StorageService $storageService
-    ) {}
+        UserRepositoryInterface $userRepository,
+        UserSettingRepositoryInterface $userSettingRepository,
+        CircleSettingRepositoryInterface $circleSettingRepository,
+        StorageService $storageService
+    ) {
+        $this->userRepository = $userRepository;
+        $this->userSettingRepository = $userSettingRepository;
+        $this->circleSettingRepository = $circleSettingRepository;
+        $this->storageService = $storageService;
+    }
 
     /**
      * ユーザーを取得する

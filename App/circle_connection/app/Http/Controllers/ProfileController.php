@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 /** Service */
 use App\Services\User\UserService;
 /** Presenter */
